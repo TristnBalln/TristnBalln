@@ -41,11 +41,11 @@
 ---
 
 ## 📄 CV
-- **Download my CV (PDF):** [CV.pdf]()
+- **Download my CV (PDF):** [CV.pdf](https://github.com/TristnBalln/CV/blob/main/Tristan_James_Ball_CV.pdf)
 
 ---
 
 ## 🤝 Connect
-- **LinkedIn:** https://www.linkedin.com/in/tristan-ball-85a8b9331/ 
+- [LinkedIn](https://www.linkedin.com/in/tristan-ball-85a8b9331/) 
 - **Email:** jamesball.tristan@gmail.com  
 - **Open to:** Internships, collabs, and entry-level software roles
