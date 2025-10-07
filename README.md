@@ -1,8 +1,11 @@
 ## 👋 Hello! I'm Tristan James Ball.
 
 🎓 *Software Engineering Student at Belgium Campus iTversity*  
-💡 Keen to learn more about Software Development, AI, Data Science & Cloud Technologies  
+
+💡 Keen to learn more about Software Development, AI, Data Science & Cloud Technologies
+
 🚀 Actively looking for internship and graduate opportunities in software engineering 
+
 ---
 
 ## 🚀 Skills
@@ -22,6 +25,12 @@
 
 - **Inventory ML (Forecasting/Classification)** — ML-powered inventory insights  
   _Python, scikit-learn, pandas_ • [Repo](https://github.com/BeardedSeal77/MLG382_CYO_Project)
+
+- **ML Project** — Student Performance Analysis & Prediction  
+  _Python, scikit-learn, XGBoost, Random Forest, Dash, pandas, NumPy_ • [Repo](https://github.com/BeardedSeal77/MLG382_Guided_Project)
+
+- **Community Portal Project** — Dynamic Web Application  
+  _Node.js, Express.js, EJS, Bootstrap 5_ • [Repo](https://github.com/itsJackok/WPR381_Dynamic-Community-Portal-Website-)
 
 - **Student Wellness Management System** — CRUD + reporting  
   _Java / C# • MVC • SQL_ • [Repo](https://github.com/kcaylee/Milestone1_PRG381_2025)
