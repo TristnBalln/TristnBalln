@@ -36,12 +36,12 @@
   _Java / C# • MVC • SQL_ • [Repo](https://github.com/kcaylee/Milestone1_PRG381_2025)
 
 - **CampusLearn Platform** — learning portal prototype  
-  _Node.js (Express) / or ASP.NET Core, PostgreSQL_ • [Repo]() Coming soon
+  _Node.js (Express) / or ASP.NET Core, PostgreSQL_ • Repo Coming soon
   
 ---
 
 ## 📄 CV
-- **Download my CV (PDF):** [CV.pdf](https://github.com/TristnBalln/CV/blob/main/Tristan_James_Ball_CV.pdf)
+- **See my CV (PDF):** [CV](https://github.com/TristnBalln/CV/blob/main/Tristan_James_Ball_CV.pdf)
 
 ---
 
